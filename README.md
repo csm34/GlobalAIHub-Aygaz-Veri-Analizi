@@ -71,6 +71,7 @@ Several visualizations were created to understand the dataset better and visuali
 To run this project locally, you will need the following Python libraries:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
+```
 
 ---
 
